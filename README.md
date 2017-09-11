@@ -10,7 +10,7 @@ _This is a Sinatra template_
 
 ## Setup/Installation Requirements
 
-_Clone repo. Run $ rspec in dir.
+_Clone repo. Run $ rspec in dir._
 
 ## Known Bugs
 
